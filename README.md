@@ -1,4 +1,7 @@
 # CrossCountryRace
+USING MAPS
+
+
 In a cross-country race, teams (very minimally represented by the Team class in the race package ) are assigned an identifier (ID) during registration, which they use to sign in and out at the start and finish.
 Start and finish times (in seconds after the oﬀicial start) are then noted for each runner to calculate the times the runners took to complete the course.
 
